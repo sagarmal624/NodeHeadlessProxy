@@ -22,11 +22,10 @@ The following environment variables can be set to configure the proxy instead of
 | `SITECORE_API_KEY`                     | The Sitecore SSC API key your app uses.                                                                                                    |
 | `SITECORE_ENABLE_DEBUG`                | Optional. Writes verbose request info to stdout for debugging. Defaults to `false`.                                                        |
 
-#4. Build & run
 
-#5.  Run `npm install`
+#4.  Run `npm install`
 
-#6.  Run `npm run start`
+#5.  Run `npm run start`
 
 You should be able to see the following message:
 `server listening on port 3000!` and see all the communication between this server and your Sitecore CD instance in the console.
