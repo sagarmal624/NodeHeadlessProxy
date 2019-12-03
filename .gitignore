@@ -1,0 +1,16 @@
+scjssconfig.json
+scjssconfig.bak
+
+*.pfx
+*.publishsettings
+node_modules/
+*.log
+npm-debug.log*
+dist
+
+lerna-debug.log
+.nyc_output
+coverage/
+/badges
+packages/*/*.tgz
+/samples/react/profiling
